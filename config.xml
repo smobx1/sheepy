@@ -50,7 +50,7 @@
 
 <splash src="images/splashscreen.png" platform="winphone" />
 
-<splash platform="winphone" width="1152" height="1920" src="images/splashscreen.png" />
+<!-- <splash platform="winphone" width="1152" height="1920" src="images/splashscreen.png" /> -->
 <!-- END SPLASH -->
 
     <!-- ANDROID ICONS -->
